@@ -8,13 +8,13 @@ This folder contains my personal configuration files (**dotfiles**) for setting 
 
 ## 📁 Folder Structure
 
-dotfiles/
-├── .vimrc
-├── .zshrc
-└── .config/
-├── nvim/
-├── tmux/
-└── (etc.)
+> dotfiles/
+> ├── .vimrc
+> ├── .zshrc
+> └── .config/
+> ├── nvim/
+> ├── tmux/
+> └── (etc.)
 
 
 ## Usage Instructions
