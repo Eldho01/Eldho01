@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Eldho01
 - 👀 I’m interested in new technologies and engineering methods
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working in a robotics project...
+- Interested in Low level system and embedded based codes.
 - 📫 How to reach me - [gmail](eldhobaby21@gmail.com)
 
 
